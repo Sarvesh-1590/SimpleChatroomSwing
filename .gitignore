@@ -1,0 +1,14 @@
+# Ignore compiled class files
+*.class
+
+# Ignore JAR files
+*.jar
+
+# Ignore IDE settings (for NetBeans/Eclipse/IntelliJ)
+*.idea/
+*.iml
+*.classpath
+*.project
+
+# Ignore database files (if any local DB)
+*.db
